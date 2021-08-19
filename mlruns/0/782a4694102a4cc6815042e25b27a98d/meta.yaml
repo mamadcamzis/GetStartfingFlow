@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamadcamzis/Desktop/GetStartfingFlow/mlruns/0/782a4694102a4cc6815042e25b27a98d/artifacts
+end_time: 1629403840936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 782a4694102a4cc6815042e25b27a98d
+run_uuid: 782a4694102a4cc6815042e25b27a98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629403840870
+status: 3
+tags: []
+user_id: mamadcamzis
